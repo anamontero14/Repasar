@@ -30,4 +30,16 @@ public class pr1 {
 		return a + b;
 	}
 
+	/**
+	 * <h1>Método para restar dos parámetros</h1>
+	 * 
+	 * @param c
+	 * @param d
+	 * @return la resta de dos parámetros
+	 * @author USUARIO
+	 */
+	public static int resta(int c, int d) {
+		return c - d;
+	}
+
 }
